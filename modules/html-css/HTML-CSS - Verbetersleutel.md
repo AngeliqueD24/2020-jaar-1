@@ -245,7 +245,23 @@ hoofding, met als content "naam".
 Oplossing:
 
 ```html
-<!-- TODO -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Opdracht 1</title>
+  </head>
+  <body>
+    <div style="font-size: 32px; font-weight: 700; color: red">H1 met CSS</div>
+    <div style="font-size: 24px; font-weight: 700; color: blue">H2 met CSS</div>
+    <div style="font-size: 18.7167px; font-weight: 700; color: red">H3 met CSS</div>
+    <div style="font-size: 16px; font-weight: 700; color: blue">H4 met CSS</div>
+    <div style="font-size: 13.2833px; font-weight: 700; color: red">H5 met CSS</div>
+    <div style="font-size: 10.7167px; font-weight: 700; color: blue">H6 met CSS</div>
+  </body>
+</html>
+
 ```
 
 ## Opdracht 2
